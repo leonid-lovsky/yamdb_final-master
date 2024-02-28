@@ -1,6 +1,4 @@
-![example workflow](https://github.com/leonid-lovsky/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
-
-http://84.252.137.72/redoc/
+![example workflow](https://github.com/leonid-lovsky/yamdb_final-master/actions/workflows/yamdb_workflow.yaml/badge.svg)
 
 # API YAMDB
 **YAMDB** - проект сервиса, позволяющего пользователям оставлять отзывы на произведения в трех категориях (_список категорий может быть расширен_), а также ставить им оценку (_1-10_):
